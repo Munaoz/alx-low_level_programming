@@ -6,9 +6,9 @@
  */
 int main(void)
 {
-char alpha;
+char alpha;i
 for (alpha = 'a' ; alpha <= 'z' ; alpha++)
-if (alpha ! ='q' && alpha ! = 'e')
+if (alpha != 'q' && alpha != 'e')
 {
 putchar(alpha);
 }
