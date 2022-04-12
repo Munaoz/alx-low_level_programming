@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  * main - main block
- * Description: computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line
+ * Description: computes and prints the sum of all the multiples of 3 or
+ * 5 below 1024 (excluded), followed by a new line
  * Return: 0
  */
 int main(void)
@@ -21,7 +22,8 @@ printf(", %lu", aft);
 aft += bef;
 bef = aft - bef;
 }
-bef1 = (bef / l);bef2 = (bef % l);
+bef1 = (bef / l);
+bef2 = (bef % l);
 aft1 = (aft / l);
 aft2 = (aft % l);
 for (i = 92; i < 99; ++i)
