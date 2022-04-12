@@ -2,7 +2,12 @@
 
 #define MAIN_H_INCLUDED
 
-
+/*
+ * File: main.h
+ * Auth: Okeke-Ozzoude Munachimso
+ * Desc: Header file containing declarations for all functions
+ * used in the 0x02-functions_nested_loops directory.
+ */
 
 int _putchar(char c);
 
