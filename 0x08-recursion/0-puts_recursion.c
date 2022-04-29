@@ -5,9 +5,8 @@
  *
  *   * @s: string
  *
- *    * Return: no return.
- *
- *     */
+ *    * Return: no return
+ */
 void _puts_recursion(char *s)
 {
 if (*s != '\0')
